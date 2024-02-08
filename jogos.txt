@@ -19,9 +19,9 @@
 ||wotblitz.com^
 ||wgcdn.co^
 !Valorant
-||playvalorant.com'
-||valorant.scd.riotcdn.net'
-||valorant.secure.dyn.riotcdn.net'
+||playvalorant.com^
+||valorant.scd.riotcdn.net^
+||valorant.secure.dyn.riotcdn.net^
 !Ubisoft
 ||ubi.com^
 ||ubisoft.com^
