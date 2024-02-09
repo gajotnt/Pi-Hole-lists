@@ -145,9 +145,9 @@
 ||easyanticheat.net^
 ||easy.ac^
 ||eac-cdn.com^
-||cdn*-epicgames-*.file.myqcloud.com^
-||epicgames-download*-*.file.myqcloud.com^
-||epicgames-download*.akamaized.net^
+!||cdn*-epicgames-*.file.myqcloud.com^
+!||epicgames-download*-*.file.myqcloud.com^
+!||epicgames-download*.akamaized.net^
 !Electronic Arts
 ||ea.com^
 ||eamobile.com^
