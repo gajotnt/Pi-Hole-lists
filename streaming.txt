@@ -82,7 +82,7 @@
 !Hulu
 ||hulu.com^
 !Netflix
-|netflix.com.edgesuite.net^
+||netflix.com.edgesuite.net^
 ||dualstack.apiproxy-*.amazonaws.com^
 ||dualstack.ichnaea-web-*.amazonaws.com^
 ||fast.com^
