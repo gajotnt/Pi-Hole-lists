@@ -177,3 +177,7 @@
 ||callofduty.com^
 ||callofdutyleague.com^
 ||codmwest.com^
+!
+!Others
+!
+||onlinesoccermanager.com^
