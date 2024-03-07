@@ -181,3 +181,6 @@
 !Others
 !
 ||onlinesoccermanager.com^
+||crazygames.com.br^
+||jogos360.com.br^
+||1v1.lol^
