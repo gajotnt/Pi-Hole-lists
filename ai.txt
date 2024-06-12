@@ -22,3 +22,5 @@
 ||open-assistant.io^
 ||chatgod.ai^
 ||oppenheimer.app^
+||blackbox.ai^
+||perplexity.ai^
