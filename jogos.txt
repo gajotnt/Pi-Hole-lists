@@ -1,3 +1,4 @@
+||friv2online.com^
 ||jogos360.com.br^
 ||html5games.com^
 ||famobi.com^
@@ -6,10 +7,10 @@
 ||poki.com^
 ||subwaysurf.io^
 ||now.gg^
-||classroom.global.ssl.fastly.net^$important
+||classroom.global.ssl.fastly.net^
 ||1001jogos.pt^
-||crazygames.com^$important
-||watchdocumentaries.com^$important
+||crazygames.com^
+||watchdocumentaries.com^
 ||unblocked-games.org^
 ||agar.io
 ||snakegame.gg^
