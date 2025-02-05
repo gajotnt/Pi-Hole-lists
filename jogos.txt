@@ -10341,9 +10341,6 @@
 ||uweb.webzzanine.net^
 ||uzinagaz.com^
 ||v-schlachtfeld.net^
-||v10.events.data.microsoft.com^
-||v10.vortex-win.data.microsoft.com^
-||v20.events.data.microsoft.com^
 ||v2w.org^
 ||v3arcade.org^
 ||v7games.com^
