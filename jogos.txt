@@ -9029,7 +9029,6 @@
 ||servicejeux.skyrock.com^
 ||sess.net^
 ||sessoblog.it^
-||settings-win.data.microsoft.com^
 ||sevengames.de^
 ||sevengames.prosieben.at^
 ||sexlestus1.superforum.fr^
