@@ -321,7 +321,6 @@
 ||activegamez.com^
 ||activision.com^
 ||activisionvalue.com^
-||activity.windows.com^
 ||actuajeux.info^
 ||actualite-jeux.com^
 ||actualitesjeuxvideo.fr^
