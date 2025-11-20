@@ -1,3 +1,4 @@
+||deadshot.io^
 ||jogos101.com^
 ||yell0wsuit.page^
 ||payhop.com^
@@ -11072,5 +11073,6 @@
 ||geforcenow.com^
 ||shadow.tech^
 ||nosdevoirs.fr^
+
 
 
