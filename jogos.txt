@@ -1,3 +1,4 @@
+||payhop.com^
 ||frivclassic.com^
 ||deadshot.io^
 ||jogos101.com^
@@ -11074,4 +11075,5 @@
 ||geforcenow.com^
 ||shadow.tech^
 ||nosdevoirs.fr^
+
 
