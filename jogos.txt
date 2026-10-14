@@ -1,3 +1,5 @@
+||surge.sh^
+||haxball.com^
 ||eaglercraft.com^
 ||overtide.io^
 ||playhop.com^
