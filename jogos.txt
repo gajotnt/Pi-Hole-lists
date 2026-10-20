@@ -1,3 +1,4 @@
+||bloxd.io^
 ||kour.io^
 ||surge.sh^
 ||haxball.com^
